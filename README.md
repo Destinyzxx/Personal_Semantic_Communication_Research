@@ -1,3 +1,4 @@
+![Kazusa](Image/kazusa.bmp)
 # Personal_Semantic_Communication_Research
 This repository is about personal semantic communication research.
 The main contents are as follows:
