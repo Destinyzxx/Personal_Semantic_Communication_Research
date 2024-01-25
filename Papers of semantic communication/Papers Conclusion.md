@@ -3,6 +3,7 @@ This markdown file summarizes papers on various aspects of semantic communicatio
 2. Semantic Communication system for different types of message source(mainly image and text)
 3. Some new and important concepts introduced by semantic communication
 4. Some new algorithms introduced in semantic communication
+5. Mathematical Principles of semantic communication
 
 # Overview of semantic communication
 * D. Wheeler and B. Natarajan, "Engineering Semantic Communication: A Survey," in IEEE Access, vol. 11, pp. 13965-13995, 2023.
@@ -15,6 +16,24 @@ This markdown file summarizes papers on various aspects of semantic communicatio
 * Zhang H, Shao S, Tao M, et al. “Deep learning-enabled semantic communication systems with task-unaware transmitter and dynamic data,” IEEE Journal on Selected Areas inCommunications, vol. 41, no. 1, pp. 170-185, Nov. 2022.
 Joint coding-modulation for digital semantic communication system:
 * Bo Y, Duan Y, Shao S, et al. “Learning Based Joint Coding-Modulation for Digital Semantic Communication Systems,” 2022, arXiv:2208.05704
+
+In semantic communication system for image transmission, it will use many past achievements of Computer Vision. Therefore, I consider 
+
+
+
+
+### semantic segmentation
+[1]Lv, J., “Importance-Aware Image Segmentation-based Semantic Communication for Autonomous Driving”, <i>arXiv e-prints</i>, 2024. doi:10.48550/arXiv.2401.10153.
+
+
+### generatibe model
+
+#### GAN
+
+#### 
+
+### ViT
+
 
 ## Text
 JSCC:
